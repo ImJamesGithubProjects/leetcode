@@ -2,6 +2,8 @@
 
 # PROBLEM
 
+https://leetcode.com/problems/3sum-closest/description/
+
 16. 3Sum Closest
 
 Given an integer array nums of length n and an integer target, find three integers in nums such that the sum is closest to target.
